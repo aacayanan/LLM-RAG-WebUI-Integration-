@@ -5,7 +5,7 @@
 * acayanan1059@sdsu.edu
 
 # Details
-I sent an invide to my private repo to (philipamadasun1@gmail.com). My video submission is uploaded on the GitHub.
+I sent an invite to my private repo to (philipamadasun1@gmail.com). My video submission is uploaded on the GitHub.
 
 ## Important note
 * You must code in Python.
