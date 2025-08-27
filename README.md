@@ -3,6 +3,7 @@
 ## Name and Email:
 * Aaron Cayanan
 * acayanan1059@sdsu.edu
+* aaroncayanan02@gmail.com (GitHub)
 
 # Details
 I sent an invite to my private repo to (philipamadasun1@gmail.com). My video submission is uploaded on the GitHub.
